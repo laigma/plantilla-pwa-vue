@@ -32,3 +32,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 prueba 1
 prueba 2
+ # ajustamos y testeamos grupo de features acumuladas para la publicacion
